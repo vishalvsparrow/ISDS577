@@ -1,0 +1,130 @@
+Survey options
+
+Q1 - email
+
+For Q-2 options are 
+1- Disagree strongly
+2- Disagree moderately
+3- Disagree a little
+4- Niether agree nor disagree
+5- Agree a little
+6- Agree moderately
+7- Agree strongly
+
+Q2 1---	1)- Extraverted, enthusiastic 
+	2)- Critical, quarrelsome
+	3)- Dependable, self-disciplined
+	4)- Anxious, easily upset
+	5)- Open to new experiences, complex
+	6)-Reserved, quiet.
+	7)-Sympathetic, warm.
+	8)-Disorganized, careless
+	9)-Calm, emotionally stable
+	10)- Conventional, uncreative
+
+
+2---Rate the music
+	For option - Rate from 1-5 (1 cannot stand it and 5 love it)
+	1)- Country music
+	2)- Jazz music
+	3)- Rap/Hip 
+	4)- Classical Music
+	5)- Soft Rock/Pop
+	6)- Hard Rock/Heavy Metal
+
+
+3---Present mood feel
+	For option - Rate from 1-4 (1 Definitely do not feel and 4- Definitely feel)
+	1)- Fed up
+	2)-Gloomy
+	3)- Jittery
+	4)- Nervous
+	5)- Sad
+	6)- Calm
+
+Age group
+	1) 17 to 21years
+	2) 22 to 26years
+	3) 27 to 31years
+	4) 32 to 36years
+	5) 37 to older
+
+Gender 
+	1)- Male
+	2)- Female
+	3)- Prefer not to say
+
+Race-	
+	1)White
+	2)Black or African American
+	3)American Indian or Alaska Native
+	4)Asian Indian
+	5)Other Asian
+	6)Native Hawaiian or Pacific Islander
+	7)Other
+
+education level
+	1) no schooling
+	2) Some high school
+	3) Bachelor degree
+	4) Master degree
+	5) Professional degree
+	6) Doctorate degree
+	
+Genre of music
+	1-Hard rock
+	2-soft rock
+	3- country
+	4- Jazz
+	5- Rap 
+	6- Classical
+
+
+Music 
+How many hours per week do we listen
+	1)- Less than hour
+	2)- 2 to 4 hours
+	3)- 5 to 7hours
+	4)- 7 to 9hours
+	5)- 10 to 12 hours
+	6)- 13 to 15 hours
+	7)- more than 15 hours
+
+
+current GPA
+	1) less than 2.5
+	2) 2.5 to 2.99
+	3) 3 to 3.49
+	4) 3.5 to 4
+	
+Commuter student
+	1) yes
+	2) no
+
+
+
+FOr 155 survey
+
+	order of the music
+	1)classical
+	2)hard rock
+	3)pop
+	4)country
+	5)rap 
+	6)jazz
+
+For 89 survey
+
+	order of music
+	1)classical
+	2)jazz
+	3)hard rock
+	4)country
+	5)pop
+	6)rap
+
+
+
+	
+
+
